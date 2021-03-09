@@ -1,0 +1,3 @@
+./fd 4660
+LETMEWIN
+flag: mommy! I think I know what a file descriptor is!!
