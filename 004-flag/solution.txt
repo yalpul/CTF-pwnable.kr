@@ -1,0 +1,6 @@
+flag is packed with UPX
+upx -d flag
+r2 flag
+parameters to strcpy is the address of flag.
+flag is on address 0x496628. 0x96628 on file.
+flag: UPX...? sounds like a delivery service :)
